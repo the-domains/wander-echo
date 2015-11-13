@@ -1,6 +1,6 @@
 name: WANDER + ECHO
 favicon: null
-layout_spectrum: 0.9870692195836455
+layout_spectrum: 0.76044
 typography_spectrum: 0.29390353872440755
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.1726082011591643
+  brandStrength: 0.5
   lightness: 0.06766264303587377
   saturation: 0.35314267850480974
   rhythmicContrast: 0.7528462135232985
