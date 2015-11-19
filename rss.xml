@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WANDER + ECHO]]></title>
         <description><![CDATA[WANDER + ECHO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wander-echo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 18:55:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 05:00:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wander-echo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/wander-echo/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">06ec6ad5-6bdc-4873-bd41-ed3a92af9900</guid>
+            <pubDate>Thu, 19 Nov 2015 05:00:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7bde9d5-579e-4563-95d7-b77a8e396a86.jpg" alt="" title="">]]></description>
-            <link>undefined003cc779-3f6e-4df9-9855-0a6cac721e24/index.html</link>
+            <link>https://thegrid.ai/wander-echo/003cc779-3f6e-4df9-9855-0a6cac721e24/index.html</link>
             <guid isPermaLink="false">003cc779-3f6e-4df9-9855-0a6cac721e24</guid>
             <pubDate>Fri, 13 Nov 2015 18:55:24 GMT</pubDate>
         </item>
